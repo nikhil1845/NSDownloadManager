@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pinterest/Classes/SDDownloadManager.swift"
+            timestampString = "547733802.1699589"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "dowloadFile(withRequest:inDirectory:withName:onProgress:onCompletion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pinterest.SDDownloadManager.dowloadFile(withRequest: Foundation.URLRequest, inDirectory: Swift.Optional&lt;Swift.String&gt;, withName: Swift.Optional&lt;Swift.String&gt;, onProgress: Swift.Optional&lt;(CoreGraphics.CGFloat) -&gt; ()&gt;, onCompletion: (Swift.Optional&lt;Swift.Error&gt;, Swift.Optional&lt;Foundation.Data&gt;) -&gt; ()) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Pinterest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seplmac/Downloads/Final_Project/Pinterest/Classes/SDDownloadManager.swift"
+                  timestampString = "547733803.405283"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "928">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pinterest.SDDownloadManager.dowloadFile(withRequest: Foundation.URLRequest, inDirectory: Swift.Optional&lt;Swift.String&gt;, withName: Swift.Optional&lt;Swift.String&gt;, onProgress: Swift.Optional&lt;(CoreGraphics.CGFloat) -&gt; ()&gt;, onCompletion: (Swift.Optional&lt;Swift.Error&gt;, Swift.Optional&lt;Foundation.Data&gt;) -&gt; ()) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Pinterest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seplmac/Downloads/Final_Project/Pinterest/Classes/SDDownloadManager.swift"
+                  timestampString = "547733803.4071161"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "3881">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
